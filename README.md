@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DexcoTechWebDevelopment
-- 👀 I’m interested in Web Development and Designing and also Frontend Development
+- 👀 I’m interested in Web Development, Web Designing and Frontend Development
 - 🌱 I’m currently learning React, JavaScript
 - 💞️ I’m looking to collaborate on Website and Web Pages
 - 📫 How to reach me message me on WhatsApp using +234 9122170995
